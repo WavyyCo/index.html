@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Make Money Online</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Discover Proven Ways to Make Money Online</h1>
+        <p>Your guide to financial freedom with tried and tested methods.</p>
+    </header>
+    <section id="methods">
+        <h2>Top Methods to Earn Money Online</h2>
+        <article>
+            <h3>Freelancing</h3>
+            <p>Join platforms like Upwork or Fiverr and offer your skills to a global audience.</p>
+        </article>
+        <article>
+            <h3>Affiliate Marketing</h3>
+            <p>Promote products you love and earn commissions for each sale through your unique link.</p>
+        </article>
+        <article>
+            <h3>Online Courses</h3>
+            <p>Create and sell online courses on platforms like Udemy or Teachable.</p>
+        </article>
+    </section>
+    <footer>
+        <p>© 2024 Make Money Online. All rights reserved.</p>
+    </footer>
+</body>
+</html>
